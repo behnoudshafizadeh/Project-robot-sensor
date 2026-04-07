@@ -98,13 +98,6 @@ You can tweak these parameters in `temp.py` or the Colab notebook:
 
 ---
 
-## 📸 Screenshots
-
-| Sensor Detection | Obstacle Avoidance |
-|---|---|
-| ![](1.gif) | ![](12.gif) |
-
----
 
 ## 🛠️ Built With
 
@@ -119,9 +112,4 @@ You can tweak these parameters in `temp.py` or the Colab notebook:
 
 This project is open source and available under the [MIT License](LICENSE).
 
----
 
-## 👤 Author
-
-**Behnoud Shafizadeh**  
-Feel free to fork, star ⭐, and contribute!
